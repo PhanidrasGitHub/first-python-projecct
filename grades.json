@@ -1,0 +1,14 @@
+[
+    {
+        "id": "deac3b3c",
+        "name": "Phanindra",
+        "subjects": {
+            "matha": 70,
+            "sci": 70,
+            "tel": 80,
+            "hin": 50,
+            "en": 60,
+            "5": 30
+        }
+    }
+]
